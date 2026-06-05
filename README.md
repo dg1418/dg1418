@@ -39,5 +39,4 @@ TypeScript와 NestJS를 중심으로 백엔드 개발을 학습하고 있습니�
 ## Contact
 
 - Email: hororror1@gmail.com
-- GitHub: https://github.com/내아이디
-- Portfolio: Notion 포트폴리오 링크
+- GitHub: https://github.com/dg1418
